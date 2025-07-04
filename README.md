@@ -3,7 +3,7 @@ This repository contains the Genesis Validator data that will be used to create 
 
 - Please submit your data by no later than **Wednesday, 23rd July 2025**.
 - For participation in Mainnet genesis, it is *mandatory* to take part in the genesis of the Bakerloo testnet. This is to provide all Genesis Validators with an opportunity to refamiliarise themselves with the genesis steps and ensure that Mainnet can be launched without a hitch.
-- Please run your validators on Bakerloo for at least one week, after which it is not compulsory to continue running a Bakerloo validator. However, it is highly recommended to do so as Bakerloo will be used for testing future features and upgrades.
+- Please run your validators on Bakerloo for at least three weeks, after which it is not compulsory to continue running a Bakerloo validator. However, it is highly recommended to do so as Bakerloo will be used for testing future features and upgrades.
 
 # Step-by-step guide
 The steps below outline how selected Genesis Validators should submit the required data for a successful launch of the Bakerloo testnet. Please:
