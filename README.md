@@ -8,11 +8,11 @@ This repository contains the Genesis Validator data that will be used to create 
 # Step-by-step guide
 The steps below outline how selected Genesis Validators should submit the required data for a successful launch of the Bakerloo testnet. Please:
 
-1. Clone this repo locally and branch off the *genesis-validator-data* branch (not *master*). Name your own branch in the following format *[UUID]-genesis-validator-data*. Please use the same UUID you were given before (if you don't know what it is please reach out to @spencercoll1ns on Telegram).
+1. Clone this repo locally and branch off the ***genesis-validator-data*** branch (not ***master***). Name your own branch in the following format ***[UUID]-genesis-validator-data***. Please use the same UUID you were given before (if you don't know what it is please reach out to @spencercoll1ns on Telegram).
 2. On your own branch, navigate to the `genesis-validator-data` folder.
 3. Inspect the `template.json` file that shows the format in which you should submit your own json file.
 4. Create a new json file called `[UUID].json`, containing your validator info as per the `template.json` file.
-5. Open a pull request against the *genesis-validator-data* branch (not the *master* branch) and add *"[UUID]-genesis-validator-data"* as the PR title.
+5. Open a pull request against the ***genesis-validator-data*** branch (not the ***master*** branch) and add ***"[UUID]-genesis-validator-data"*** as the PR title.
 6. The team will review your PR, verify your ownership proof and merge it if all checks pass. You have now successfully submitted your genesis validator data for Bakerloo!
 
 ⚠️ Please ensure any data you submit here will still be correct for genesis of Bakerloo. Specifically, ensure that any IP address/port number you submit here will still be available to you at genesis. Modifying your supplied information later may introduce delays.
