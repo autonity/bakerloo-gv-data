@@ -15,6 +15,6 @@ The steps below outline how selected Genesis Validators should submit the requir
 5. Open a pull request against the *genesis-validator-data* branch (not the *master* branch) and add *"[UUID]-genesis-validator-data"* as the PR title.
 6. The team will review your PR, verify your ownership proof and merge it if all checks pass. You have now successfully submitted your genesis validator data for Bakerloo!
 
-:warning please ensure any data you submit here will still be correct for genesis of Bakerloo. Specifically, ensure that any IP address/port number you submit here will still be available to you at genesis. Modifying your supplied information later may introduce delays.
+⚠️ please ensure any data you submit here will still be correct for genesis of Bakerloo. Specifically, ensure that any IP address/port number you submit here will still be available to you at genesis. Modifying your supplied information later may introduce delays.
 
 Please continue to monitor Discord for instructions on next steps. Thank you for helping launch Bakerloo!
