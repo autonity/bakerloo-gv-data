@@ -17,4 +17,4 @@ The steps below outline how selected Genesis Validators should submit the requir
 
 ⚠️ Please ensure any data you submit here will still be correct for genesis of Bakerloo. Specifically, ensure that any IP address/port number you submit here will still be available to you at genesis. Modifying your supplied information later may introduce delays.
 
-Please continue to monitor Discord for instructions on next steps. Thank you for helping launch Bakerloo!
+Please continue to monitor Discord/Telegram for instructions on next steps. Thank you for helping launch Bakerloo!
