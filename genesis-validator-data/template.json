@@ -15,7 +15,7 @@
       // Validator address can be found as per https://docs.autonity.org/validators/register-vali/#step-2.-determine-the-validator-enode-and-address
       "validatorAddress": "0x3e08FEc6ABaf679BD8Da54abEe30b2B8B5024013",
       // Ownership proof is generated as per https://docs.autonity.org/validators/register-vali/#step-1-generate-a-cryptographic-proof-of-node-ownership
-      "ownershipProof": " 0x6fc65ed364c0776fc7fefefc93e22e2184cbeb426ea1e35b9afc59fd295cfb0f14b0f461063ca61c7e6eeba311b520f1fb692ced997f1a871e9c2232899a565d0188f9c90e1c35f08c11c2ed7cfa14cd289788e984f9b75314239a397bd92047c956a64f38d81759c23440e576d0c70815cbc77c5b9f6e407ffae3e4801f4806cb008ceb4fbbda2ffba77d9b860ff053cf0d7273079fa091a2777200b55497dad1d1fc1ddae81e802dc7d1daf2c244d3823612955db015e7c0bcd7cddc9ea4de3611bf993f7f1bfae152a07902b2aa88d57053dacc4ab006f225de4f7cf975233136"
+      "ownershipProof": "0x6fc65ed364c0776fc7fefefc93e22e2184cbeb426ea1e35b9afc59fd295cfb0f14b0f461063ca61c7e6eeba311b520f1fb692ced997f1a871e9c2232899a565d0188f9c90e1c35f08c11c2ed7cfa14cd289788e984f9b75314239a397bd92047c956a64f38d81759c23440e576d0c70815cbc77c5b9f6e407ffae3e4801f4806cb008ceb4fbbda2ffba77d9b860ff053cf0d7273079fa091a2777200b55497dad1d1fc1ddae81e802dc7d1daf2c244d3823612955db015e7c0bcd7cddc9ea4de3611bf993f7f1bfae152a07902b2aa88d57053dacc4ab006f225de4f7cf975233136"
     }
   ]
 }
