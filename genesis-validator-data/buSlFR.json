@@ -1,0 +1,21 @@
+// The example values below are purely for demonstration purposes and do not constitute valid data
+{
+  "genesisValidatorData": [
+    {
+      // Enode can be found as per https://docs.autonity.org/validators/register-vali/#step-2.-determine-the-validator-enode-and-address
+      "enode": "enode://7fcc7b3942799e15eecffdc76f4c874ef14554fa8b5fc9d2f905b402e2253fdf98af98113d27dc7828a6130b6aa40f9e962585fe8bede25cc4cd10d8803defd2@173.231.16.18:30303",
+      // Treasury is the address you will use to operate the validator and receive commission revenue rewards to, as per https://docs.autonity.org/validators/register-vali/#step-1.-generate-a-cryptographic-proof-of-node-ownership
+      "treasury": "0xff2d345444E0c15d220f6F82EBCaD06c6BbaA0a9",
+      // Consensus key as per https://docs.autonity.org/validators/register-vali/#step-3.-determine-the-validator-consensus-public-key
+      "consensusKey": "0xb7653eaf4c1c89d5b8a831d13963838b29bf6d3472d8eb866c2fa42ecc9e3c495fdbbd454409a0607dd35b701a94db2e",
+      // Oracle address as per https://docs.autonity.org/oracle/run-oracle/#create-oracle-server-account
+      "oracleAddress": "0x593e9c05780a32D70fe4F44Dfe8b2596C967e5C3"
+    },
+    {
+      // Validator address can be found as per https://docs.autonity.org/validators/register-vali/#step-2.-determine-the-validator-enode-and-address
+      "validatorAddress": "0x2b465282F726529c8064E7886ceE5b25ca9F06f2",
+      // Ownership proof is generated as per https://docs.autonity.org/validators/register-vali/#step-1-generate-a-cryptographic-proof-of-node-ownership
+      "ownershipProof": "0x3e273dd4cf9a279263e9b918def0c634df54e84660af9da6ff0322ea19c68dc93605e151e59d385ca07d0e7ce9de5104fa0432acc6b8d954f43a091099b0ff4800e9025616bf0f71c1308401cd42086c6360aa5621a803e4e7437f054f0dd5cf64464cf488a285699ef8149f6f2e01d28d9e5c546c93a8b5f9c6ac087d2ad8c7c8009837b5ca277f883e29c592205b6dcbad23be635df62a4ce17d0a1cd6fed3a8756f7acd3e33df9338444fec6faf7e5b740e9c58a4ebbe4f5220e34f51790599846c3cdd53cfa5e7e9ddf7d940409ea536250f9a399d9f03f1ce671dc79a42d7db"
+    }
+  ]
+}
